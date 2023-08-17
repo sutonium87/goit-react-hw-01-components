@@ -1,0 +1,40 @@
+.transaction {
+  background-color: #ffffff;
+  width: 600px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 10px 20px rgba(65, 64, 64, 0.15);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+th,
+td {
+  height: 50px;
+  text-align: center;
+  border: 1px solid #eaeaea;
+  padding: 10px;
+}
+
+th {
+  background-color: #3498db;
+  color: #ffffff;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+tr {
+  background-color: #ffffff;
+  text-transform: uppercase;
+  color: #727375;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f0f0;
+}

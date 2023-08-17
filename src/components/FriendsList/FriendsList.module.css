@@ -1,0 +1,9 @@
+.friendList {
+  background-color: #fff;
+  width: 300px;
+  margin: 0px auto;
+  margin-bottom: 100px;
+  padding: 30px 0;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgb(65, 64, 64);
+}
